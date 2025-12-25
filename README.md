@@ -101,6 +101,11 @@ Preview of the interactive Power BI dashboard displaying key sales, profit, and 
 
 ---
 
+## 🤝 Contribution
+Contributions, suggestions, and improvements are welcome.
+
+---
+
 ## 👩‍💻 Author
 **Lata Devi**  
 Data Analyst | Power BI | Data Visualization
